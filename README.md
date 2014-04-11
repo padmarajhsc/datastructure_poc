@@ -3,7 +3,7 @@ datastructure_poc
 
 POC for DataStructure project
 
-Below REST Endpoints are implemented for POC
+Below REST Endpoints are implemented for POC:
 
     DELETE  /datastructure/delete/{productid} (com.tesco.services.poc.ProductRes
 ource)
